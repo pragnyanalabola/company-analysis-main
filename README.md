@@ -1,5 +1,5 @@
 Open CMD
-step 1: git clone https://github.com/codingacharya/company-analysis.git
+step 1: git clone https://github.com/pragnyanalabola/company-analysis-main
 
 step 2: cd company-analysis
 
